@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/namasteJS/static/css/main.c53019a0.chunk.css",
+    "main.js": "/namasteJS/static/js/main.8926c9b0.chunk.js",
+    "main.js.map": "/namasteJS/static/js/main.8926c9b0.chunk.js.map",
+    "runtime~main.js": "/namasteJS/static/js/runtime~main.4f08cf33.js",
+    "runtime~main.js.map": "/namasteJS/static/js/runtime~main.4f08cf33.js.map",
+    "static/js/2.093fd4c4.chunk.js": "/namasteJS/static/js/2.093fd4c4.chunk.js",
+    "static/js/2.093fd4c4.chunk.js.map": "/namasteJS/static/js/2.093fd4c4.chunk.js.map",
+    "index.html": "/namasteJS/index.html",
+    "precache-manifest.781881d1bcc97609ef6eec73216f9ecd.js": "/namasteJS/precache-manifest.781881d1bcc97609ef6eec73216f9ecd.js",
+    "service-worker.js": "/namasteJS/service-worker.js",
+    "static/css/main.c53019a0.chunk.css.map": "/namasteJS/static/css/main.c53019a0.chunk.css.map",
+    "static/media/Logo.jpg": "/namasteJS/static/media/Logo.5e93cacb.jpg"
+  }
+}
